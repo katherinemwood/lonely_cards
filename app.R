@@ -4,7 +4,6 @@
 # Find out more about building applications with Shiny here:
 #
 #    http://shiny.rstudio.com/
-# rsconnect::deployApp('~/documents/classes/research best practices/final_project')
 
 library(shiny)
 library(ggplot2)
